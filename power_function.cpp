@@ -24,6 +24,6 @@ double power(double m, int n)
 
  x=pow(m,n);
 
-return x ;
+return x;
 
 }
